@@ -11,7 +11,7 @@ namespace ACCAD
     
         /* Render this figure on the Renderer
          */
-        void render(Renderer &renderer) override;
+        //void render(Renderer &renderer) override;
 
         /* Save this figure to an output stream
          */ 

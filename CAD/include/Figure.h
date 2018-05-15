@@ -12,7 +12,7 @@ namespace ACCAD
 
         /* Render this figure on the Renderer
          */
-        virtual void render(Renderer &renderer) = 0;
+        //virtual void render(Renderer &renderer) = 0;
 
         /* Save this figure to an output stream
          */ 
