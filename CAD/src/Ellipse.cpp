@@ -1,6 +1,7 @@
 #include "..\include\Ellipse.h"
 #include "..\include\Utility.h"
 #include "..\include\definitions.h"
+#include "..\include\Vec2.h"
 
 using namespace ACCAD;
 using namespace std;
