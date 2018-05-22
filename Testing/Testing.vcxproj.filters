@@ -30,6 +30,9 @@
     <ClCompile Include="..\CAD\src\Utility.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="..\CAD\src\Vec2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\CAD\include\Alternation.h">
@@ -69,6 +72,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="..\CAD\include\Utility.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CAD\include\Vec2.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
