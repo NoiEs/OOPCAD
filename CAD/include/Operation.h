@@ -1,5 +1,7 @@
 #pragma once
 
+#include "Image.h"
+
 namespace ACCAD
 {
     class IOperation

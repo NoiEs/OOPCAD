@@ -5,7 +5,7 @@
 
 namespace ACCAD
 {
-    class Alternation : public Operation
+    class Alternation : public IOperation
     {
     public:
 

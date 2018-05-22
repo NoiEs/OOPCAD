@@ -5,7 +5,7 @@
 
 namespace ACCAD
 {
-    class Creation : public Operation
+    class Creation : public IOperation
     {
     public:
 

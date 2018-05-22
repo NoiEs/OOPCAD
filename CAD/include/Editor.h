@@ -1,6 +1,12 @@
 #pragma once
 
 #include <vector>
+#include "Vec2.h"
+#include "definitions.h"
+#include "Figure.h"
+#include "Image.h"
+#include "Loader.h"
+#include "Operation.h"
 
 namespace ACCAD
 {
@@ -9,7 +15,7 @@ namespace ACCAD
     public:
         /* Alter each pixel to given color
          */
-        void alterPixels(const std::vector<pair<Vec2, Color> > &pixels);
+        void alterPixels(const std::vector<std::pair<Vec2, Color> > &pixels);
 
         /* Alter all pixels to the same color
          */
