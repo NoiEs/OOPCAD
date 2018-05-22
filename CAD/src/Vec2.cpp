@@ -1,5 +1,4 @@
 #include "../include/Vec2.h"
-#include "../include/definitions.h"
 
 using namespace ACCAD;
 using namespace std;
